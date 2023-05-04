@@ -4,7 +4,7 @@
 <br>
 
 ## 1. vanilla-todo
-<img align="right" src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 Vanilla JS 를 이용한 투두리스트 앱
 
@@ -14,7 +14,7 @@ Vanilla JS 를 이용한 투두리스트 앱
 <br>
 
 ## 2. react-todo
-<img align="right" src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><img align="right" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/> 
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/> 
 
 React를 이용한 투두리스트 앱
 
@@ -24,7 +24,7 @@ React를 이용한 투두리스트 앱
 <br>
 
 ## 3. react-messanger
-<img align="right" src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/><img align="right" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/> 
+<img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/> 
 
 React와 Typescript를 이용한 채팅앱 클론
 
@@ -36,7 +36,7 @@ React와 Typescript를 이용한 채팅앱 클론
 <br>
 
 ## 4. next-netflix
-<img align="right" src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/><img align="right" src="https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=Next.js&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=Next.js&logoColor=white"/> 
 
 Next.js를 이용한 넷플릭스 클론
 
