@@ -22,7 +22,7 @@ React를 이용한 투두리스트
 ## 3. react-messanger
 Typescript를 이용한 메신저앱 클론
 
-|[📝 Blog](https://velog.io/@seondal/React-%EC%99%80-Typescript-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1-%ED%81%B4%EB%A1%A0%EC%BD%94%EB%94%A9)|[🔗 Link]()|[🐈 Code](https://github.com/seondal/react-messanger-16th)|[✨ Code Review 1](https://github.com/CEOS-Developers/react-messenger-16th/pull/11)<br>[✨ Code Review 2](https://github.com/CEOS-Developers/react-messenger-16th/pull/20)|[📜 ReadMe](https://suave-lilac-075.notion.site/react-messanger-74ad0471b9784241be887965b75c2c8c)|
+|[📝 Blog](https://velog.io/@seondal/React-%EC%99%80-Typescript-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1-%ED%81%B4%EB%A1%A0%EC%BD%94%EB%94%A9)|[🔗 Link](https://react-messanger-16th-ebon.vercel.app/)|[🐈 Code](https://github.com/seondal/react-messanger-16th)|[✨ Code Review 1](https://github.com/CEOS-Developers/react-messenger-16th/pull/11)<br>[✨ Code Review 2](https://github.com/CEOS-Developers/react-messenger-16th/pull/20)|[📜 ReadMe](https://suave-lilac-075.notion.site/react-messanger-74ad0471b9784241be887965b75c2c8c)|
 |-|-|-|-|-|
 
 
