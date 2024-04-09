@@ -1,5 +1,5 @@
 # CEOS FE Study
-> 신촌연합 IT 창업동아리 CEOS에서 진행한 프론트엔드 스터디 💙 📖
+> CEOS 16기 프론트엔드 스터디 📖
 
 <br>
 
@@ -42,7 +42,7 @@ Next.JS를 이용한 넷플릭스 클론
 <br/>
 
 # CEOS Regular Session
-> 신촌연합 IT 창업동아리 CEOS의 정규세션에서 진행한 창업 관련 활동 💙 🌪
+> CEOS 16기 정규세션(창업 및 기획 활동) 🌪
 
 <br/>
 
