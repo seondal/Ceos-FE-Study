@@ -1,5 +1,5 @@
-# CEOS FE Study
-> CEOS 16기 프론트엔드 스터디 📖
+## CEOS FE Study
+> 세오스 프론트엔드 스터디 📖
 
 <br>
 
@@ -41,8 +41,8 @@ Next.JS를 이용한 넷플릭스 클론
 
 <br/>
 
-# CEOS Regular Session
-> CEOS 16기 정규세션(창업 및 기획 활동) 🌪
+## CEOS Regular Session
+> 세오스 정규세션(창업 및 기획 활동) 🌪
 
 <br/>
 
